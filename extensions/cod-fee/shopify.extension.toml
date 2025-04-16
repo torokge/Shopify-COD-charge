@@ -1,0 +1,3 @@
+[extension]
+name = "COD Fee"
+type = "checkout_post_purchase"
